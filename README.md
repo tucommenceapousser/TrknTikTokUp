@@ -23,6 +23,12 @@ Ce projet utilise Streamlit pour créer une application web permettant de géné
 
 Assurez-vous d'avoir Python 3.7 ou supérieur installé. 
 
+## Déploiement
+
+Vous pouvez déployer l'application directement sur [Streamlit.io](https://streamlit.io/):
+
+[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black.svg)](https://share.streamlit.io/tucommenceapousser/TrknTikTokUp/main/app.py)
+
 ## Configuration
 
 1. Clonez le dépôt :
